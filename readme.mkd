@@ -1,0 +1,41 @@
+<h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>1.. 2.. 3.. Testando</s></h1>
+
+
+<h2>Requisitos</h2>
+<br>
+<div>
+<h3>1) Crie a função Sum que recebe um array númerico e retorna a soma inteira dos elementos</h3>
+<p> - Se não receber um array ou o aray for vazio deve retornar null</p>
+</div>
+<br>
+<h3>2) Teste a função Sum</h3>
+<br>
+<div>
+<h3>3) Crie a função isString que recebe uma string e retorna a frase 'Essa string tem [quantidade de letras] letras'</h3>
+<p> - Se não receber uma string deve  retornar undefined</p>
+</div>
+<br>
+<h3>4) Teste a função isString</h3>
+<br>
+<div>
+<h3>5) Crie a função myValues que recebe um objeto com as chaves name e lastName e retorna um array com os valores'</h3>
+<p> - Se não receber um objeto deve lançar um error com a mensagem 'Insira um objeto'</p>
+</div>
+<br>
+<h3>6) Teste a função myValues</h3>
+<br>
+<div>
+<h3>7) Crie a função calculate que recebe três strings e retorna um objeto com três chaves: stringOne, stringTwo, stringThree em que cada chave guardará cada string respectivamente'</h3>
+<p> - As strings devem ser maiúsculas. Se não receber uma das strings deve lançar um error com a mensagem 'Parâmetro inválido'</p>
+</div>
+<br>
+<h3>8) Teste a função calculate</h3>
+<br>
+<div>
+<h3>9) Crie os testes para a função ifood e depois crie a função ifood</h3>
+<p> - A função recebe uma comida, uma bebida e o valor total da compra</p>
+<p> - A função deve retornar um objeto com a chave pedido e a chave conta</p>
+<p> - A chave pedido deve guardar um objeto com as chaves comida e bebida com os respectivos pedidos passados pelo parâmetro</p>
+<p> - A chave conta recebe o valor total acrescido de 5% da taxa de entrega</p>
+</div>
+<br>
