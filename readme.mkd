@@ -32,7 +32,7 @@
 <h3>8) Teste a função calculate</h3>
 <br>
 <div>
-<h3>9) Crie os testes para a função ifood e depois crie a função ifood</h3>
+<h3>9) Crie os testes para a função ifood e depois crie a função ifood (utilize TDD)</h3>
 <p> - A função recebe uma comida, uma bebida e o valor total da compra</p>
 <p> - A função deve retornar um objeto com a chave pedido e a chave conta</p>
 <p> - A chave pedido deve guardar um objeto com as chaves comida e bebida com os respectivos pedidos passados pelo parâmetro</p>
