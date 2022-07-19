@@ -1,0 +1,19 @@
+{
+  "name": "esquenta-unit-tests",
+  "version": "1.0.0",
+  "description": "<h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>1.. 2.. 3.. Testando</s></h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
