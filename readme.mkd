@@ -1,7 +1,7 @@
 <h1>VAMOS COMEÇAR A AVENTURA!🚀 <s>1.. 2.. 3.. Testando</s></h1>
+<h2>Instalando dependências: npm install</h2>
 
-
-<h2>Requisitos</h2>
+<h1>Requisitos</h1>
 <br>
 <div>
 <h3>1) Crie a função Sum que recebe um array númerico e retorna a soma inteira dos elementos</h3>
