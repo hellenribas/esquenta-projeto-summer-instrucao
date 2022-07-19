@@ -5,7 +5,7 @@
 <br>
 <div>
 <h3>1) Crie a função Sum que recebe um array númerico e retorna a soma inteira dos elementos</h3>
-<p> - Se não receber um array ou o aray for vazio deve retornar null</p>
+<p> - Se não receber um array ou o array for vazio deve retornar null</p>
 </div>
 <br>
 <h3>2) Teste a função Sum</h3>
